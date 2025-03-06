@@ -9,8 +9,6 @@ const path = require('path');
 const app = express();
 const PORT = 3000;
 
-
-
 // Directory for uploads
 const UPLOADS_DIR = path.join(__dirname, 'uploads');
 
